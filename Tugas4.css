@@ -1,0 +1,18 @@
+﻿body {
+    color:purple;
+    background-color:silver;
+}
+
+table,th,td{
+    text-align:center;
+}
+
+h1
+{
+    color : white;
+}
+.imagezoom {
+    height: 100%;
+    width: 100%;
+}
+
